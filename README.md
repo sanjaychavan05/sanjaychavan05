@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science Engineer with hands-on experience in Java Full-Stack development and building scalable web<br>applications using modern frontend and backend technologies. Skilled in REST API development, database design,<br>and cloud deployment. Built multiple real-world projects and secured 3rd place at Code Bharat Hackathon 2025
 
 
